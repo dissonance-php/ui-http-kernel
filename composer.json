@@ -1,12 +1,10 @@
 {
-  "name": "dissonance/ui-http-kernel",
+  "name": "dissonance/ui_http_kernel",
   "description": "Шаблоны для ядра web",
-  "authors": [
-    {
+  "authors": [ {
       "name": "Surkov Sergey",
       "role": "creator"
-    }
-  ],
+    }],
   "version": "1.0.0",
   "type": "library",
   "keywords": ["ui http kernel", "dissonance"],
