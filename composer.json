@@ -1,7 +1,7 @@
 {
   "name": "dissonance/ui_http_kernel",
   "description": "Шаблоны для ядра web",
-  "authors": [ {
+  "authors": [{
       "name": "Surkov Sergey",
       "role": "creator"
     }],
