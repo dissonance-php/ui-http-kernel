@@ -1,5 +1,5 @@
 {
-  "name": "dissonance/ui_http_kernel",
+  "name": "symbiotic/ui_http_kernel",
   "description": "Шаблоны для ядра web",
   "authors": [{
       "name": "Surkov Sergey",
@@ -7,9 +7,9 @@
     }],
   "version": "1.0.0",
   "type": "library",
-  "keywords": ["ui http kernel", "dissonance"],
+  "keywords": ["ui http kernel", "symbiotic"],
   "extra": {
-    "dissonance" : {
+    "symbiotic" : {
       "id" : "ui_http_kernel",
       "resources_path" : "resources",
       "public_path" : "assets"
