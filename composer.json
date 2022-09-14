@@ -1,11 +1,11 @@
 {
   "name": "symbiotic/ui_http_kernel",
-  "description": "Шаблоны для ядра web",
+  "description": "Base templates for Http kernel",
   "authors": [{
       "name": "Surkov Sergey",
-      "role": "creator"
+      "role": "Developer"
     }],
-  "version": "1.0.1",
+  "version": "1.4.0",
   "type": "library",
   "keywords": ["ui http kernel", "symbiotic"],
   "extra": {
